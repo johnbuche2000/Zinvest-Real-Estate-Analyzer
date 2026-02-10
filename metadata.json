@@ -1,0 +1,5 @@
+{
+  "name": "Z-Invest: Real Estate Analyzer",
+  "description": "A powerful real estate investment analysis tool featuring a vertical feed of listings with real-time ROI, Cap Rate, and Cash Flow calculations based on customizable financial assumptions.",
+  "requestFramePermissions": []
+}
